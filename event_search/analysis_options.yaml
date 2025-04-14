@@ -1,0 +1,7 @@
+include: package:flutter_lints/flutter.yaml
+exclude:
+  - "**/*.g.dart"
+  - "**/*.freezed.dart"
+  - "**/GeneratedPluginRegistrant.*"
+  - "**/.dart_tool/**"
+  - "**/build/**"
